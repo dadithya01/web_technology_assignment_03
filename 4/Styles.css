@@ -1,0 +1,30 @@
+.navbar {
+    padding: 30px;
+    position: sticky;
+    top: 0;
+}
+
+.nav-1 {
+    background-color: red;
+}
+
+.nav-2 {
+    background-color: blue;
+}
+
+.nav-3 {
+    background-color: green;
+}
+
+.nav-4 {
+    background-color: pink;
+}
+
+.content{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 200px;
+    margin-top: 400px;
+    margin-bottom: 400px
+}
+
